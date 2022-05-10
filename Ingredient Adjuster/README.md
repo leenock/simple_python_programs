@@ -1,6 +1,4 @@
 ## Assignments on different python programs
-### This is version 1.00 
-### python programming
 ## Description
 The folder will contain different python programs questions for future reference for beginners class. I hope you have fun and Enjoy
 
